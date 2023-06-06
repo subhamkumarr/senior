@@ -1,6 +1,6 @@
 .navbar {
     background-color: #362740;
-    padding: 25px;
+    padding: 15px;
     display: flex;
     justify-content: flex-end;
   }
@@ -10,11 +10,13 @@
     align-items: center;
   }
   body{
-    background-color: #67233b;
+    background-color: #7A3457;
   }
   
   .logo {
     height: 30px;
+    padding-top: 19px;
+
   }
   
 

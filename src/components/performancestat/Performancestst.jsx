@@ -18,7 +18,7 @@ const Performancestat = () => {
         <p>Case Allotment</p>
       </div>
 
-    <div className="container">
+    <div className="containerr">
       <div className="card">
       <img className="image1" src={image1} alt="Card 1" />
       <div className="card-text">

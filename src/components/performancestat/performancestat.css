@@ -19,6 +19,7 @@
   margin-top: 20px;
 }
 
+
 .card-container {
   display: flex;
 }
@@ -76,6 +77,9 @@
 }
 .form h3 {
   color: white
+}
+body{
+  background-color: #7A3457;
 }
 
 label {

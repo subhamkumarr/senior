@@ -5,7 +5,7 @@
     justify-content: center;
     height: 100vh;
     position: relative;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../assets/background.png'); /* Replace 'background.jpg' with the actual path to your image */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../../assets/background.png'); /* Replace 'background.jpg' with the actual path to your image */
     background-size: cover;
     background-position: center;
     background-blend-mode: multiply;
