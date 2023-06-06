@@ -10,6 +10,14 @@ const Viewcasepending = () => {
     const tableData = [
         { caseId: 1, childName: 'John Doe', category: 'Category 1', pendingStep: 'Step 1' },
         { caseId: 2, childName: 'Jane Smith', category: 'Category 2', pendingStep: 'Step 2' },
+        { caseId: 3, childName: 'Jane Smith', category: 'Category 3', pendingStep: 'Step 3' },
+        { caseId: 3, childName: 'Jane Smith', category: 'Category 3', pendingStep: 'Step 3' },
+        { caseId: 3, childName: 'Jane Smith', category: 'Category 3', pendingStep: 'Step 3' },
+        { caseId: 3, childName: 'Jane Smith', category: 'Category 3', pendingStep: 'Step 3' },
+        { caseId: 3, childName: 'Jane Smith', category: 'Category 3', pendingStep: 'Step 3' },
+        { caseId: 3, childName: 'Jane Smith', category: 'Category 3', pendingStep: 'Step 3' },
+
+
         // Add more data objects as needed
       ];
 

@@ -10,6 +10,17 @@ const Viewcasecompleted = () => {
     const tableData = [
         { caseId: 1, childName: 'John Doe', Date: 'Category 1', Download: 'Step 1' },
         { caseId: 2, childName: 'Jane Smith', Date: 'Category 2', Download: 'Step 2' },
+        { caseId: 2, childName: 'Jane Smith', Date: 'Category 2', Download: 'Step 2' },
+        { caseId: 2, childName: 'Jane Smith', Date: 'Category 2', Download: 'Step 2' },
+        { caseId: 2, childName: 'Jane Smith', Date: 'Category 2', Download: 'Step 2' },
+        { caseId: 2, childName: 'Jane Smith', Date: 'Category 2', Download: 'Step 2' },
+        { caseId: 2, childName: 'Jane Smith', Date: 'Category 2', Download: 'Step 2' },
+        { caseId: 2, childName: 'Jane Smith', Date: 'Category 2', Download: 'Step 2' },
+
+
+
+        
+
         // Add more data objects as needed
       ];
 
