@@ -4,12 +4,18 @@ import Performancestst from './components/performancestat/Performancestst'
 import Groundlevelhome from './components/groundlevelhome/Groundlevelhome'
 import Viewcasepending from './components/viewcasepending/Viewcasepending'
 import Viewcasecompleted from './components/viewcasecompleted/Viewcasecompleted'
+import Home from './components/home/Home'
+
 import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
 
 const router = createBrowserRouter([
+  {
+    path: "/home",
+    element: <Home />,
+  },
   {
     path: "/caseallotment",
     element: <Caseallotment />,
