@@ -1,0 +1,111 @@
+.navbar {
+    background-color: #362740;
+    padding: 25px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  body{
+    background-color: #67233b;
+  }
+  
+  .logo {
+    height: 30px;
+  }
+  
+
+  
+  .container {
+    margin: 20px;
+  }
+
+  .container select {
+    width: 500px; /* Adjust the width value as needed */
+    margin-bottom: 30px;
+    margin-top: 40px;
+
+  }
+
+  .view-case {
+    display: flex;
+    align-items: center;
+  }
+  
+  .view-case span {
+    margin-right: 10px;
+    color: white;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    color: white;
+    font-weight: 150;
+  }
+  
+  .search-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+    width: 600px; /* Adjust the width as needed */
+    height: 50px;
+    position: relative;
+
+  
+  }
+  
+  .search-bar input {
+    flex-grow: 1;
+    padding: 8px;
+    border-radius: 6px;
+    height: 20px;
+  }
+
+  .search-icon {
+    width: 24px; /* Adjust the width as needed */
+    height: 24px; /* Adjust the height as needed */
+    position: absolute;
+    right: 5px;
+    cursor: pointer;
+  }
+  
+  .table {
+    width: 80%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the table horizontally */
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    /* color: white; */
+  }
+  .table th {
+    background-color: #362740;
+    color: white;
+    font-weight: 200;
+  }
+  .table td {
+    background-color: #C989A8;
+    /* color: white; */
+  }
+  
+  .buttons {
+    margin-top: 10px;
+    margin-top: 25px;   
+  }
+  
+  .buttons button {
+    margin-right: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+  }
+  
